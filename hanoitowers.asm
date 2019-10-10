@@ -1,4 +1,4 @@
-[14:38, 10/10/2019] Pulgoso🍎❤Enrique Manzano: # Name: 
+
 ##	Sofia M. Salazar Valdovinos
 ##	Luis Enrique Manzano L. De Ortigosa
 # Description: Hanoi towers using recursivity over a section of memory
